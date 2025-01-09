@@ -43,7 +43,12 @@ se ecncuentran configuradas las  validaciones del lado del cliente con jqueryval
 para configurar la validacion
 al ejecutar la pagina en inspeccionar se ve que cargan las validaciones
 
-
+32:25
+Validacion de usos de appsettings por ambientes
+en D:\TCS\RMG\.Net\RazorPagesMovie\RazorPagesMovie\Program.cs
+var valor = app.Configuration["valorPersonalizado"];
+Console.WriteLine(valor);
+ejecutando con la opcion de htpps se genera consola y se visualiza el mensaje personalido
 
 https://www.youtube.com/watch?v=1qxEmUmpNFw
 ¿Cómo hacer una app web de Razor Pages con .NET 6, VISUAL STUDIO?

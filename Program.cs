@@ -22,4 +22,7 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
+var valor = app.Configuration["valorPersonalizado"];
+Console.WriteLine(valor);
+
 app.Run();
