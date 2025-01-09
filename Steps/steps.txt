@@ -31,6 +31,11 @@ crear referencia en el layout
 dentro de pages agregar una pagina de razon llamada pruebas
 23:40
 referenciar a una pagina de diseño
+D:\TCS\RMG\.Net\RazorPagesMovie\RazorPagesMovie\Pages\Index.cshtml
+agregar Layout = "_Layout" 
+pero este codigo queda centralziado 
+en D:\TCS\RMG\.Net\RazorPagesMovie\RazorPagesMovie\Pages\_ViewStart.cshtml
+se agrega en el index en null y se ve que no agrega diseños en la pagina al ejecutar
 
 https://www.youtube.com/watch?v=1qxEmUmpNFw
 ¿Cómo hacer una app web de Razor Pages con .NET 6, VISUAL STUDIO?
