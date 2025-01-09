@@ -1,0 +1,36 @@
+
+url Guia
+https://learn.microsoft.com/es-es/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-9.0&tabs=visual-studio
+
+Se crea repositorio en Github 
+
+Se crea el repositorio en linea de comandos 
+echo "# .NET-RazorPagesWebApi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ederam/.NET-RazorPagesWebApi.git
+git push -u origin main
+
+se realiza el primer commit, y se hace el push al servidor
+
+pagina para ver datos de appsetting.json
+https://learn.microsoft.com/es-es/aspnet/core/fundamentals/configuration/?view=aspnetcore-9.0
+
+Uso de varios entornos con netCore
+https://learn.microsoft.com/es-es/aspnet/core/fundamentals/environments?view=aspnetcore-9.0
+
+Video guia de explicacion
+https://www.youtube.com/watch?v=1qxEmUmpNFw
+¿Cómo hacer una app web de Razor Pages con .NET 6, VISUAL STUDIO?
+
+16:45
+crear un carpeta de pruebas y una pagina de razor index
+crear referencia en el layout
+dentro de pages agregar una pagina de razon llamada pruebas
+23:40
+referenciar a una pagina de diseño
+
+https://www.youtube.com/watch?v=1qxEmUmpNFw
+¿Cómo hacer una app web de Razor Pages con .NET 6, VISUAL STUDIO?
