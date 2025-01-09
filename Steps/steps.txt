@@ -36,6 +36,14 @@ agregar Layout = "_Layout"
 pero este codigo queda centralziado 
 en D:\TCS\RMG\.Net\RazorPagesMovie\RazorPagesMovie\Pages\_ViewStart.cshtml
 se agrega en el index en null y se ve que no agrega diseños en la pagina al ejecutar
+en D:\TCS\RMG\.Net\RazorPagesMovie\RazorPagesMovie\Pages\_ViewImports.cshtml
+se espcifican using, namespaces, taghelper,etc
+en D:\TCS\RMG\.Net\RazorPagesMovie\RazorPagesMovie\Pages\Shared\_ValidationScriptsPartial.cshtml
+se ecncuentran configuradas las  validaciones del lado del cliente con jqueryvalidation
+para configurar la validacion
+al ejecutar la pagina en inspeccionar se ve que cargan las validaciones
+
+
 
 https://www.youtube.com/watch?v=1qxEmUmpNFw
 ¿Cómo hacer una app web de Razor Pages con .NET 6, VISUAL STUDIO?
